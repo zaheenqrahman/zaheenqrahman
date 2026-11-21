@@ -44,6 +44,6 @@ Data center resilience simulator. Describes the network and power feeds in one Y
 Hardened a Fire TV Stick 4K over ADB by disabling 40+ ad and telemetry packages. Every change is reversible, with pre-change snapshots and a tested rollback script.
 `Bash` `ADB` `Android` `Privacy`
 
-### 🗺️ [Networking Topology Labs](https://github.com/zaheenqrahman/NetworkingTopologyLabs)
-VLAN segmentation, Layer 3 connectivity, and access/distribution switch layouts for a data center lab.
+###  🏢  [Active Directory Lab](https://github.com/zaheenqrahman/active-directory-lab)
+Worked on a hands-on Active Directory lab in VirtualBox: a Windows Server domain controller, a domain-joined Windows 11 client, 5-10 bulk users created with PowerShell, a fine grain password policy, and a Group Policy screen lock.
 `VLANs` `Routing` `Switching`
