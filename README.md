@@ -16,9 +16,19 @@
 
 ## Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,flask,cpp,java,bash,linux,azure,githubactions,git" alt="Tech stack icons">
-</p>
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py" width="48" alt="Python"><br>Python</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=flask" width="48" alt="Flask"><br>Flask</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"><br>C++</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"><br>Java</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bash" width="48" alt="Bash"><br>Bash</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"><br>Linux</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=azure" width="48" alt="Azure"><br>Azure</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" alt="GitHub Actions"><br>GitHub Actions</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"><br>Git</td>
+  </tr>
+</table>
 
 ## Featured projects
 
