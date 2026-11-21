@@ -1,7 +1,8 @@
 <h1 align="center">Hey, I'm Zaheen 👋</h1>
 
 <p align="center">
-  Networking engineering student building network automation, data center tooling, and cloud APIs.
+  Networking engineering student.<br>
+  I build network automation tools, data center labs, and cloud APIs.
 </p>
 
 ---
