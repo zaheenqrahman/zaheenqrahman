@@ -46,4 +46,4 @@ Hardened a Fire TV Stick 4K over ADB by disabling 40+ ad and telemetry packages.
 
 ###  🏢  [Active Directory Lab](https://github.com/zaheenqrahman/active-directory-lab)
 Worked on a hands-on Active Directory lab in VirtualBox: a Windows Server domain controller, a domain-joined Windows 11 client, 5-10 bulk users created with PowerShell, a fine grain password policy, and a Group Policy screen lock.
-`VLANs` `Routing` `Switching`
+`VirtualBox` `Windows Server` `PowerShell` `Group Policy` `Domain Controller`
