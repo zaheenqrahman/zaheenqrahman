@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Zaheen 👋</h1>
 
 <p align="center">
-  Networking engineering student.<br>
+  Network engineering student.<br>
   I build network automation tools, data center labs, and cloud APIs.
 </p>
 
